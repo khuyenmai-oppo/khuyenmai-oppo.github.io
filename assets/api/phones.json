@@ -1,16 +1,36 @@
 [{
     "id": "A1k",
-    "name": "OPPO ",
-    "picture": "OPPO A1k.png",
-    "promotion": "FORM OPPO A1K.png"
+    "name": "OPPO A1k",
+    "picture": "A1k.png",
+    "promotion": "FORM A1k.png"
+}, {
+    "id": "A1k_Sim",
+    "name": "OPPO A1k - S150",
+    "picture": "A1k.png",
+    "promotion": "FORM A1k - Sim.png"
 }, {
     "id": "A5",
     "name": "OPPO A5",
-    "picture": "OPPO A5.png",
-    "promotion": "FORM OPPO A5.png"
+    "picture": "A5.png",
+    "promotion": "FORM A5.png"
 }, {
     "id": "A5s",
     "name": "OPPO A5s",
-    "picture": "OPPO A5S.png",
-    "promotion": "FORM OPPO A5S.png"
+    "picture": "A5s.png",
+    "promotion": "FORM A5s.png"
+}, {
+    "id": "A9",
+    "name": "OPPO A9",
+    "picture": "A9.png",
+    "promotion": "FORM A9.png"
+}, {
+    "id": "A31",
+    "name": "OPPO A31",
+    "picture": "A31.png",
+    "promotion": "FORM A31.png"
+}, {
+    "id": "A91",
+    "name": "OPPO A91",
+    "picture": "A91.png",
+    "promotion": "FORM A91.png"
 }]
