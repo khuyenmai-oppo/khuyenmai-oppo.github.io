@@ -4,11 +4,6 @@
     "picture": "A1k.png",
     "promotion": "FORM A1k.png"
 }, {
-    "id": "A1k_Sim",
-    "name": "OPPO A1k - S150",
-    "picture": "A1k.png",
-    "promotion": "FORM A1k - Sim.png"
-}, {
     "id": "A5",
     "name": "OPPO A5",
     "picture": "A5.png",
@@ -17,7 +12,7 @@
     "id": "A5s",
     "name": "OPPO A5s",
     "picture": "A5s.png",
-    "promotion": "FORM A5s.png"
+    "promotion": "FORM A5S.png"
 }, {
     "id": "A9",
     "name": "OPPO A9",
