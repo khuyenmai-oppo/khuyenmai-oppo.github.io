@@ -203,7 +203,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }
       },
       directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterOutlet"]],
-      styles: ["header[_ngcontent-%COMP%], footer[_ngcontent-%COMP%] {\n  background: #2aad6f;\n  color: white;\n}\n\nheader[_ngcontent-%COMP%] {\n  font-size: 24px;\n  text-align: center;\n  padding: 0.75em 0;\n}\n\nfooter[_ngcontent-%COMP%] {\n  text-align: right;\n  padding: 0.25em;\n}\n\nmain[_ngcontent-%COMP%] {\n  padding: 2em;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvRDpcXFdvcmtzcGFjZVxca2h1eWVubWFpLW9wcG8vc3JjXFxhcHBcXGFwcC5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztFQUVFLG1CQUFBO0VBQ0EsWUFBQTtBQ0NGOztBREVBO0VBQ0UsZUFBQTtFQUNBLGtCQUFBO0VBQ0EsaUJBQUE7QUNDRjs7QURFQTtFQUNFLGlCQUFBO0VBQ0EsZUFBQTtBQ0NGOztBREVBO0VBQ0ksWUFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiaGVhZGVyLFxyXG5mb290ZXIge1xyXG4gIGJhY2tncm91bmQ6ICMyYWFkNmY7XHJcbiAgY29sb3I6IHdoaXRlO1xyXG59XHJcblxyXG5oZWFkZXIge1xyXG4gIGZvbnQtc2l6ZTogMjRweDtcclxuICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbiAgcGFkZGluZzogMC43NWVtIDA7XHJcbn1cclxuXHJcbmZvb3RlciB7XHJcbiAgdGV4dC1hbGlnbjogcmlnaHQ7XHJcbiAgcGFkZGluZzogMC4yNWVtO1xyXG59XHJcblxyXG5tYWluIHtcclxuICAgIHBhZGRpbmc6IDJlbTtcclxufVxyXG4iLCJoZWFkZXIsXG5mb290ZXIge1xuICBiYWNrZ3JvdW5kOiAjMmFhZDZmO1xuICBjb2xvcjogd2hpdGU7XG59XG5cbmhlYWRlciB7XG4gIGZvbnQtc2l6ZTogMjRweDtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xuICBwYWRkaW5nOiAwLjc1ZW0gMDtcbn1cblxuZm9vdGVyIHtcbiAgdGV4dC1hbGlnbjogcmlnaHQ7XG4gIHBhZGRpbmc6IDAuMjVlbTtcbn1cblxubWFpbiB7XG4gIHBhZGRpbmc6IDJlbTtcbn0iXX0= */"]
+      styles: ["header[_ngcontent-%COMP%], footer[_ngcontent-%COMP%] {\n  background: #2aad6f;\n  color: white;\n}\n\nheader[_ngcontent-%COMP%] {\n  font-size: 24px;\n  text-align: center;\n  padding: 0.75em 0;\n}\n\nfooter[_ngcontent-%COMP%] {\n  text-align: right;\n  padding: 0.25em;\n}\n\nmain[_ngcontent-%COMP%] {\n  padding: 2em;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQzpcXFVzZXJzXFxEdXkgRG9hblxcRG9jdW1lbnRzXFxHaXRIdWJcXGtodXllbm1haS1vcHBvL3NyY1xcYXBwXFxhcHAuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7RUFFRSxtQkFBQTtFQUNBLFlBQUE7QUNDRjs7QURFQTtFQUNFLGVBQUE7RUFDQSxrQkFBQTtFQUNBLGlCQUFBO0FDQ0Y7O0FERUE7RUFDRSxpQkFBQTtFQUNBLGVBQUE7QUNDRjs7QURFQTtFQUNJLFlBQUE7QUNDSiIsImZpbGUiOiJzcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbImhlYWRlcixcclxuZm9vdGVyIHtcclxuICBiYWNrZ3JvdW5kOiAjMmFhZDZmO1xyXG4gIGNvbG9yOiB3aGl0ZTtcclxufVxyXG5cclxuaGVhZGVyIHtcclxuICBmb250LXNpemU6IDI0cHg7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gIHBhZGRpbmc6IDAuNzVlbSAwO1xyXG59XHJcblxyXG5mb290ZXIge1xyXG4gIHRleHQtYWxpZ246IHJpZ2h0O1xyXG4gIHBhZGRpbmc6IDAuMjVlbTtcclxufVxyXG5cclxubWFpbiB7XHJcbiAgICBwYWRkaW5nOiAyZW07XHJcbn1cclxuIiwiaGVhZGVyLFxuZm9vdGVyIHtcbiAgYmFja2dyb3VuZDogIzJhYWQ2ZjtcbiAgY29sb3I6IHdoaXRlO1xufVxuXG5oZWFkZXIge1xuICBmb250LXNpemU6IDI0cHg7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgcGFkZGluZzogMC43NWVtIDA7XG59XG5cbmZvb3RlciB7XG4gIHRleHQtYWxpZ246IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjI1ZW07XG59XG5cbm1haW4ge1xuICBwYWRkaW5nOiAyZW07XG59Il19 */"]
     });
     /*@__PURE__*/
 
@@ -485,21 +485,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function HomePageComponent_div_17_Template(rf, ctx) {
       if (rf & 1) {
-        var _r2 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
-
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 3);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "img", 4);
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("load", function HomePageComponent_div_17_Template_img_load_1_listener() {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r2);
-
-          var ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
-
-          return ctx_r1.readyToExport();
-        });
-
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 4);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 5);
 
@@ -564,19 +552,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "onExport",
         value: function onExport(phone) {
-          this.selectedPhone = phone;
-          this.phoneFlyerService.setSalePersonInfo(this.salePerson);
-        }
-      }, {
-        key: "readyToExport",
-        value: function readyToExport() {
           var _this = this;
 
+          this.selectedPhone = phone;
+          this.phoneFlyerService.setSalePersonInfo(this.salePerson);
           setTimeout(function () {
             var node = document.getElementById('flyer-print-container');
 
             if (!!node) {
-              _this.captureService.capture(node, "".concat(_this.selectedPhone.name, "-").concat(_this.salePerson.name));
+              _this.captureService.capture(node, phone.name);
 
               setTimeout(function () {
                 _this.selectedPhone = null;
@@ -598,7 +582,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-home-page"]],
       decls: 18,
       vars: 4,
-      consts: [["matInput", "", 3, "ngModel", "ngModelChange"], [3, "selected"], ["id", "flyer-print-container", "class", "print-template", 4, "ngIf"], ["id", "flyer-print-container", 1, "print-template"], [1, "phone-frame", 3, "src", "load"], [1, "sale-person-info"], [1, "name"], [1, "phone"], [1, "address"]],
+      consts: [["matInput", "", 3, "ngModel", "ngModelChange"], [3, "selected"], ["id", "flyer-print-container", "class", "print-template", 4, "ngIf"], ["id", "flyer-print-container", 1, "print-template"], [1, "phone-frame", 3, "src"], [1, "sale-person-info"], [1, "name"], [1, "phone"], [1, "address"]],
       template: function HomePageComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "mat-form-field");
@@ -697,7 +681,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }
       },
       directives: [_angular_material_form_field__WEBPACK_IMPORTED_MODULE_3__["MatFormField"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_3__["MatLabel"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_4__["MatIcon"], _angular_material_input__WEBPACK_IMPORTED_MODULE_5__["MatInput"], _angular_forms__WEBPACK_IMPORTED_MODULE_6__["DefaultValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_6__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_6__["NgModel"], _phone_list_phone_list_component__WEBPACK_IMPORTED_MODULE_7__["PhoneListComponent"], _angular_common__WEBPACK_IMPORTED_MODULE_8__["NgIf"]],
-      styles: [".print-template[_ngcontent-%COMP%] {\n  position: relative;\n  width: 800px;\n  height: 800px;\n}\n\n.phone-frame[_ngcontent-%COMP%] {\n  width: 800px;\n  height: 800px;\n}\n\n.phone-picture[_ngcontent-%COMP%] {\n  position: absolute;\n  bottom: 270px;\n  left: 50%;\n  height: 511px;\n  transform: translateX(-50%);\n}\n\n.sale-person-info[_ngcontent-%COMP%] {\n  color: white;\n  font-size: 20px;\n  text-align: left;\n  font-family: Arial, sans-serif;\n}\n\n.sale-person-info[_ngcontent-%COMP%]   .name[_ngcontent-%COMP%] {\n  position: absolute;\n  bottom: 93px;\n  left: 188px;\n  width: 232px;\n  font-size: 24px;\n  font-weight: bold;\n}\n\n.sale-person-info[_ngcontent-%COMP%]   .phone[_ngcontent-%COMP%] {\n  position: absolute;\n  bottom: 93px;\n  left: 568px;\n  width: 180px;\n  font-size: 24px;\n  font-weight: bold;\n}\n\n.sale-person-info[_ngcontent-%COMP%]   .address[_ngcontent-%COMP%] {\n  position: absolute;\n  width: 420px;\n  bottom: 52px;\n  left: 158px;\n}\n\nmat-form-field[_ngcontent-%COMP%] {\n  min-width: 280px;\n  max-width: 100%;\n  margin-right: 1em;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaG9tZS1wYWdlL0Q6XFxXb3Jrc3BhY2VcXGtodXllbm1haS1vcHBvL3NyY1xcYXBwXFxob21lLXBhZ2VcXGhvbWUtcGFnZS5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvaG9tZS1wYWdlL2hvbWUtcGFnZS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGtCQUFBO0VBQ0EsWUFBQTtFQUNBLGFBQUE7QUNDRjs7QURFQTtFQUNJLFlBQUE7RUFDQSxhQUFBO0FDQ0o7O0FERUE7RUFDRSxrQkFBQTtFQUNBLGFBQUE7RUFDQSxTQUFBO0VBQ0EsYUFBQTtFQUNBLDJCQUFBO0FDQ0Y7O0FERUE7RUFDRSxZQUFBO0VBQ0EsZUFBQTtFQUNBLGdCQUFBO0VBQ0EsOEJBQUE7QUNDRjs7QURDRTtFQUNFLGtCQUFBO0VBQ0EsWUFBQTtFQUNBLFdBQUE7RUFDQSxZQUFBO0VBQ0EsZUFBQTtFQUNBLGlCQUFBO0FDQ0o7O0FERUU7RUFDRSxrQkFBQTtFQUNBLFlBQUE7RUFDQSxXQUFBO0VBQ0EsWUFBQTtFQUNBLGVBQUE7RUFDQSxpQkFBQTtBQ0FKOztBREdFO0VBQ0Usa0JBQUE7RUFDQSxZQUFBO0VBQ0EsWUFBQTtFQUNBLFdBQUE7QUNESjs7QURLQTtFQUNJLGdCQUFBO0VBQ0EsZUFBQTtFQUNBLGlCQUFBO0FDRkoiLCJmaWxlIjoic3JjL2FwcC9ob21lLXBhZ2UvaG9tZS1wYWdlLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnByaW50LXRlbXBsYXRlIHtcclxuICBwb3NpdGlvbjogcmVsYXRpdmU7XHJcbiAgd2lkdGg6IDgwMHB4O1xyXG4gIGhlaWdodDogODAwcHg7XHJcbn1cclxuXHJcbi5waG9uZS1mcmFtZSB7XHJcbiAgICB3aWR0aDogODAwcHg7XHJcbiAgICBoZWlnaHQ6IDgwMHB4O1xyXG59XHJcblxyXG4ucGhvbmUtcGljdHVyZSB7XHJcbiAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gIGJvdHRvbTogMjcwcHg7XHJcbiAgbGVmdDogNTAlO1xyXG4gIGhlaWdodDogNTExcHg7XHJcbiAgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKC01MCUpO1xyXG59XHJcblxyXG4uc2FsZS1wZXJzb24taW5mbyB7XHJcbiAgY29sb3I6IHdoaXRlO1xyXG4gIGZvbnQtc2l6ZTogMjBweDtcclxuICB0ZXh0LWFsaWduOiBsZWZ0O1xyXG4gIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjtcclxuXHJcbiAgLm5hbWUge1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgYm90dG9tOiA5M3B4O1xyXG4gICAgbGVmdDogMTg4cHg7XHJcbiAgICB3aWR0aDogMjMycHg7XHJcbiAgICBmb250LXNpemU6IDI0cHg7XHJcbiAgICBmb250LXdlaWdodDogYm9sZDtcclxuICB9XHJcblxyXG4gIC5waG9uZSB7XHJcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XHJcbiAgICBib3R0b206IDkzcHg7XHJcbiAgICBsZWZ0OiA1NjhweDtcclxuICAgIHdpZHRoOiAxODBweDtcclxuICAgIGZvbnQtc2l6ZTogMjRweDtcclxuICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xyXG4gIH1cclxuXHJcbiAgLmFkZHJlc3Mge1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgd2lkdGg6IDQyMHB4O1xyXG4gICAgYm90dG9tOiA1MnB4O1xyXG4gICAgbGVmdDogMTU4cHg7XHJcbiAgfVxyXG59XHJcblxyXG5tYXQtZm9ybS1maWVsZCB7XHJcbiAgICBtaW4td2lkdGg6IDI4MHB4O1xyXG4gICAgbWF4LXdpZHRoOiAxMDAlO1xyXG4gICAgbWFyZ2luLXJpZ2h0OiAxZW07XHJcbn1cclxuIiwiLnByaW50LXRlbXBsYXRlIHtcbiAgcG9zaXRpb246IHJlbGF0aXZlO1xuICB3aWR0aDogODAwcHg7XG4gIGhlaWdodDogODAwcHg7XG59XG5cbi5waG9uZS1mcmFtZSB7XG4gIHdpZHRoOiA4MDBweDtcbiAgaGVpZ2h0OiA4MDBweDtcbn1cblxuLnBob25lLXBpY3R1cmUge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGJvdHRvbTogMjcwcHg7XG4gIGxlZnQ6IDUwJTtcbiAgaGVpZ2h0OiA1MTFweDtcbiAgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKC01MCUpO1xufVxuXG4uc2FsZS1wZXJzb24taW5mbyB7XG4gIGNvbG9yOiB3aGl0ZTtcbiAgZm9udC1zaXplOiAyMHB4O1xuICB0ZXh0LWFsaWduOiBsZWZ0O1xuICBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7XG59XG4uc2FsZS1wZXJzb24taW5mbyAubmFtZSB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgYm90dG9tOiA5M3B4O1xuICBsZWZ0OiAxODhweDtcbiAgd2lkdGg6IDIzMnB4O1xuICBmb250LXNpemU6IDI0cHg7XG4gIGZvbnQtd2VpZ2h0OiBib2xkO1xufVxuLnNhbGUtcGVyc29uLWluZm8gLnBob25lIHtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICBib3R0b206IDkzcHg7XG4gIGxlZnQ6IDU2OHB4O1xuICB3aWR0aDogMTgwcHg7XG4gIGZvbnQtc2l6ZTogMjRweDtcbiAgZm9udC13ZWlnaHQ6IGJvbGQ7XG59XG4uc2FsZS1wZXJzb24taW5mbyAuYWRkcmVzcyB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgd2lkdGg6IDQyMHB4O1xuICBib3R0b206IDUycHg7XG4gIGxlZnQ6IDE1OHB4O1xufVxuXG5tYXQtZm9ybS1maWVsZCB7XG4gIG1pbi13aWR0aDogMjgwcHg7XG4gIG1heC13aWR0aDogMTAwJTtcbiAgbWFyZ2luLXJpZ2h0OiAxZW07XG59Il19 */"]
+      styles: [".print-template[_ngcontent-%COMP%] {\n  position: relative;\n  width: 800px;\n  height: 800px;\n}\n\n.phone-frame[_ngcontent-%COMP%] {\n  width: 800px;\n  height: 800px;\n}\n\n.phone-picture[_ngcontent-%COMP%] {\n  position: absolute;\n  bottom: 270px;\n  left: 50%;\n  height: 511px;\n  transform: translateX(-50%);\n}\n\n.sale-person-info[_ngcontent-%COMP%] {\n  color: white;\n  font-size: 20px;\n  text-align: left;\n  font-family: Arial, sans-serif;\n}\n\n.sale-person-info[_ngcontent-%COMP%]   .name[_ngcontent-%COMP%] {\n  position: absolute;\n  bottom: 93px;\n  left: 188px;\n  width: 232px;\n  font-size: 24px;\n  font-weight: bold;\n}\n\n.sale-person-info[_ngcontent-%COMP%]   .phone[_ngcontent-%COMP%] {\n  position: absolute;\n  bottom: 93px;\n  left: 568px;\n  width: 180px;\n  font-size: 24px;\n  font-weight: bold;\n}\n\n.sale-person-info[_ngcontent-%COMP%]   .address[_ngcontent-%COMP%] {\n  position: absolute;\n  width: 420px;\n  bottom: 52px;\n  left: 158px;\n}\n\nmat-form-field[_ngcontent-%COMP%] {\n  min-width: 280px;\n  max-width: 100%;\n  margin-right: 1em;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaG9tZS1wYWdlL0M6XFxVc2Vyc1xcRHV5IERvYW5cXERvY3VtZW50c1xcR2l0SHViXFxraHV5ZW5tYWktb3Bwby9zcmNcXGFwcFxcaG9tZS1wYWdlXFxob21lLXBhZ2UuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2hvbWUtcGFnZS9ob21lLXBhZ2UuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxrQkFBQTtFQUNBLFlBQUE7RUFDQSxhQUFBO0FDQ0Y7O0FERUE7RUFDSSxZQUFBO0VBQ0EsYUFBQTtBQ0NKOztBREVBO0VBQ0Usa0JBQUE7RUFDQSxhQUFBO0VBQ0EsU0FBQTtFQUNBLGFBQUE7RUFDQSwyQkFBQTtBQ0NGOztBREVBO0VBQ0UsWUFBQTtFQUNBLGVBQUE7RUFDQSxnQkFBQTtFQUNBLDhCQUFBO0FDQ0Y7O0FEQ0U7RUFDRSxrQkFBQTtFQUNBLFlBQUE7RUFDQSxXQUFBO0VBQ0EsWUFBQTtFQUNBLGVBQUE7RUFDQSxpQkFBQTtBQ0NKOztBREVFO0VBQ0Usa0JBQUE7RUFDQSxZQUFBO0VBQ0EsV0FBQTtFQUNBLFlBQUE7RUFDQSxlQUFBO0VBQ0EsaUJBQUE7QUNBSjs7QURHRTtFQUNFLGtCQUFBO0VBQ0EsWUFBQTtFQUNBLFlBQUE7RUFDQSxXQUFBO0FDREo7O0FES0E7RUFDSSxnQkFBQTtFQUNBLGVBQUE7RUFDQSxpQkFBQTtBQ0ZKIiwiZmlsZSI6InNyYy9hcHAvaG9tZS1wYWdlL2hvbWUtcGFnZS5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5wcmludC10ZW1wbGF0ZSB7XHJcbiAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG4gIHdpZHRoOiA4MDBweDtcclxuICBoZWlnaHQ6IDgwMHB4O1xyXG59XHJcblxyXG4ucGhvbmUtZnJhbWUge1xyXG4gICAgd2lkdGg6IDgwMHB4O1xyXG4gICAgaGVpZ2h0OiA4MDBweDtcclxufVxyXG5cclxuLnBob25lLXBpY3R1cmUge1xyXG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICBib3R0b206IDI3MHB4O1xyXG4gIGxlZnQ6IDUwJTtcclxuICBoZWlnaHQ6IDUxMXB4O1xyXG4gIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgtNTAlKTtcclxufVxyXG5cclxuLnNhbGUtcGVyc29uLWluZm8ge1xyXG4gIGNvbG9yOiB3aGl0ZTtcclxuICBmb250LXNpemU6IDIwcHg7XHJcbiAgdGV4dC1hbGlnbjogbGVmdDtcclxuICBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7XHJcblxyXG4gIC5uYW1lIHtcclxuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgIGJvdHRvbTogOTNweDtcclxuICAgIGxlZnQ6IDE4OHB4O1xyXG4gICAgd2lkdGg6IDIzMnB4O1xyXG4gICAgZm9udC1zaXplOiAyNHB4O1xyXG4gICAgZm9udC13ZWlnaHQ6IGJvbGQ7XHJcbiAgfVxyXG5cclxuICAucGhvbmUge1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgYm90dG9tOiA5M3B4O1xyXG4gICAgbGVmdDogNTY4cHg7XHJcbiAgICB3aWR0aDogMTgwcHg7XHJcbiAgICBmb250LXNpemU6IDI0cHg7XHJcbiAgICBmb250LXdlaWdodDogYm9sZDtcclxuICB9XHJcblxyXG4gIC5hZGRyZXNzIHtcclxuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgIHdpZHRoOiA0MjBweDtcclxuICAgIGJvdHRvbTogNTJweDtcclxuICAgIGxlZnQ6IDE1OHB4O1xyXG4gIH1cclxufVxyXG5cclxubWF0LWZvcm0tZmllbGQge1xyXG4gICAgbWluLXdpZHRoOiAyODBweDtcclxuICAgIG1heC13aWR0aDogMTAwJTtcclxuICAgIG1hcmdpbi1yaWdodDogMWVtO1xyXG59XHJcbiIsIi5wcmludC10ZW1wbGF0ZSB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgd2lkdGg6IDgwMHB4O1xuICBoZWlnaHQ6IDgwMHB4O1xufVxuXG4ucGhvbmUtZnJhbWUge1xuICB3aWR0aDogODAwcHg7XG4gIGhlaWdodDogODAwcHg7XG59XG5cbi5waG9uZS1waWN0dXJlIHtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICBib3R0b206IDI3MHB4O1xuICBsZWZ0OiA1MCU7XG4gIGhlaWdodDogNTExcHg7XG4gIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgtNTAlKTtcbn1cblxuLnNhbGUtcGVyc29uLWluZm8ge1xuICBjb2xvcjogd2hpdGU7XG4gIGZvbnQtc2l6ZTogMjBweDtcbiAgdGV4dC1hbGlnbjogbGVmdDtcbiAgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmO1xufVxuLnNhbGUtcGVyc29uLWluZm8gLm5hbWUge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGJvdHRvbTogOTNweDtcbiAgbGVmdDogMTg4cHg7XG4gIHdpZHRoOiAyMzJweDtcbiAgZm9udC1zaXplOiAyNHB4O1xuICBmb250LXdlaWdodDogYm9sZDtcbn1cbi5zYWxlLXBlcnNvbi1pbmZvIC5waG9uZSB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgYm90dG9tOiA5M3B4O1xuICBsZWZ0OiA1NjhweDtcbiAgd2lkdGg6IDE4MHB4O1xuICBmb250LXNpemU6IDI0cHg7XG4gIGZvbnQtd2VpZ2h0OiBib2xkO1xufVxuLnNhbGUtcGVyc29uLWluZm8gLmFkZHJlc3Mge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIHdpZHRoOiA0MjBweDtcbiAgYm90dG9tOiA1MnB4O1xuICBsZWZ0OiAxNThweDtcbn1cblxubWF0LWZvcm0tZmllbGQge1xuICBtaW4td2lkdGg6IDI4MHB4O1xuICBtYXgtd2lkdGg6IDEwMCU7XG4gIG1hcmdpbi1yaWdodDogMWVtO1xufSJdfQ== */"]
     });
     /*@__PURE__*/
 
@@ -717,6 +701,709 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }];
       }, null);
     })();
+    /***/
+
+  },
+
+  /***/
+  "./src/app/libs/dom-to-image.js":
+  /*!**************************************!*\
+    !*** ./src/app/libs/dom-to-image.js ***!
+    \**************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function srcAppLibsDomToImageJs(module, exports, __webpack_require__) {
+    (function (global) {
+      'use strict';
+
+      var util = newUtil();
+      var inliner = newInliner();
+      var fontFaces = newFontFaces();
+      var images = newImages(); // Default impl options
+
+      var defaultOptions = {
+        // Default is to fail on error, no placeholder
+        imagePlaceholder: undefined,
+        // Default cache bust is false, it will use the cache
+        cacheBust: false
+      };
+      var domtoimage = {
+        toSvg: toSvg,
+        toPng: toPng,
+        toJpeg: toJpeg,
+        toBlob: toBlob,
+        toPixelData: toPixelData,
+        impl: {
+          fontFaces: fontFaces,
+          images: images,
+          util: util,
+          inliner: inliner,
+          options: {}
+        }
+      };
+      if (true) module.exports = domtoimage;else {}
+      /**
+       * @param {Node} node - The DOM Node object to render
+       * @param {Object} options - Rendering options
+       * @param {Function} options.filter - Should return true if passed node should be included in the output
+       *          (excluding node means excluding it's children as well). Not called on the root node.
+       * @param {String} options.bgcolor - color for the background, any valid CSS color value.
+       * @param {Number} options.width - width to be applied to node before rendering.
+       * @param {Number} options.height - height to be applied to node before rendering.
+       * @param {Object} options.style - an object whose properties to be copied to node's style before rendering.
+       * @param {Number} options.quality - a Number between 0 and 1 indicating image quality (applicable to JPEG only),
+                  defaults to 1.0.
+       * @param {String} options.imagePlaceholder - dataURL to use as a placeholder for failed images, default behaviour is to fail fast on images we can't fetch
+       * @param {Boolean} options.cacheBust - set to true to cache bust by appending the time to the request url
+       * @return {Promise} - A promise that is fulfilled with a SVG image data URL
+       * */
+
+      function toSvg(node, options) {
+        options = options || {};
+        copyOptions(options);
+        return Promise.resolve(node).then(function (node) {
+          return cloneNode(node, options.filter, true);
+        }).then(embedFonts).then(inlineImages).then(applyOptions).then(function (clone) {
+          return makeSvgDataUri(clone, options.width || util.width(node), options.height || util.height(node));
+        });
+
+        function applyOptions(clone) {
+          if (options.bgcolor) clone.style.backgroundColor = options.bgcolor;
+          if (options.width) clone.style.width = options.width + 'px';
+          if (options.height) clone.style.height = options.height + 'px';
+          if (options.style) Object.keys(options.style).forEach(function (property) {
+            clone.style[property] = options.style[property];
+          });
+          return clone;
+        }
+      }
+      /**
+       * @param {Node} node - The DOM Node object to render
+       * @param {Object} options - Rendering options, @see {@link toSvg}
+       * @return {Promise} - A promise that is fulfilled with a Uint8Array containing RGBA pixel data.
+       * */
+
+
+      function toPixelData(node, options) {
+        return draw(node, options || {}).then(function (canvas) {
+          return canvas.getContext('2d').getImageData(0, 0, util.width(node), util.height(node)).data;
+        });
+      }
+      /**
+       * @param {Node} node - The DOM Node object to render
+       * @param {Object} options - Rendering options, @see {@link toSvg}
+       * @return {Promise} - A promise that is fulfilled with a PNG image data URL
+       * */
+
+
+      function toPng(node, options) {
+        return draw(node, options || {}).then(function (canvas) {
+          return canvas.toDataURL();
+        });
+      }
+      /**
+       * @param {Node} node - The DOM Node object to render
+       * @param {Object} options - Rendering options, @see {@link toSvg}
+       * @return {Promise} - A promise that is fulfilled with a JPEG image data URL
+       * */
+
+
+      function toJpeg(node, options) {
+        options = options || {};
+        return draw(node, options).then(function (canvas) {
+          return canvas.toDataURL('image/jpeg', options.quality || 1.0);
+        });
+      }
+      /**
+       * @param {Node} node - The DOM Node object to render
+       * @param {Object} options - Rendering options, @see {@link toSvg}
+       * @return {Promise} - A promise that is fulfilled with a PNG image blob
+       * */
+
+
+      function toBlob(node, options) {
+        return draw(node, options || {}).then(util.canvasToBlob);
+      }
+
+      function copyOptions(options) {
+        // Copy options to impl options for use in impl
+        if (typeof options.imagePlaceholder === 'undefined') {
+          domtoimage.impl.options.imagePlaceholder = defaultOptions.imagePlaceholder;
+        } else {
+          domtoimage.impl.options.imagePlaceholder = options.imagePlaceholder;
+        }
+
+        if (typeof options.cacheBust === 'undefined') {
+          domtoimage.impl.options.cacheBust = defaultOptions.cacheBust;
+        } else {
+          domtoimage.impl.options.cacheBust = options.cacheBust;
+        }
+      }
+
+      function draw(domNode, options) {
+        return toSvg(domNode, options).then(util.makeImage).then(util.delay(100)).then(function (image) {
+          var canvas = newCanvas(domNode);
+          var ctx = canvas.getContext('2d');
+
+          if (options.scale) {
+            ctx.scale(options.scale, options.scale);
+          }
+
+          ctx.drawImage(image, 0, 0);
+          return canvas;
+        });
+
+        function newCanvas(domNode) {
+          var canvas = document.createElement('canvas');
+
+          if (options.scale) {
+            canvas.width = options.width || options.scale * util.width(domNode);
+            canvas.height = options.height || options.scale * util.height(domNode);
+          } else {
+            canvas.width = options.width || util.width(domNode);
+            canvas.height = options.height || util.height(domNode);
+          }
+
+          if (options.bgcolor) {
+            var ctx = canvas.getContext('2d');
+            ctx.fillStyle = options.bgcolor;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+          }
+
+          return canvas;
+        }
+      }
+
+      function cloneNode(node, filter, root) {
+        if (!root && filter && !filter(node)) return Promise.resolve();
+        return Promise.resolve(node).then(makeNodeCopy).then(function (clone) {
+          return cloneChildren(node, clone, filter);
+        }).then(function (clone) {
+          return processClone(node, clone);
+        });
+
+        function makeNodeCopy(node) {
+          if (node instanceof HTMLCanvasElement) return util.makeImage(node.toDataURL());
+          return node.cloneNode(false);
+        }
+
+        function cloneChildren(original, clone, filter) {
+          var children = original.childNodes;
+          if (children.length === 0) return Promise.resolve(clone);
+          return cloneChildrenInOrder(clone, util.asArray(children), filter).then(function () {
+            return clone;
+          });
+
+          function cloneChildrenInOrder(parent, children, filter) {
+            var done = Promise.resolve();
+            children.forEach(function (child) {
+              done = done.then(function () {
+                return cloneNode(child, filter);
+              }).then(function (childClone) {
+                if (childClone) parent.appendChild(childClone);
+              });
+            });
+            return done;
+          }
+        }
+
+        function processClone(original, clone) {
+          if (!(clone instanceof Element)) return clone;
+          return Promise.resolve().then(cloneStyle).then(clonePseudoElements).then(copyUserInput).then(fixSvg).then(function () {
+            return clone;
+          });
+
+          function cloneStyle() {
+            copyStyle(window.getComputedStyle(original), clone.style);
+
+            function copyStyle(source, target) {
+              if (source.cssText) target.cssText = source.cssText;else copyProperties(source, target);
+
+              function copyProperties(source, target) {
+                util.asArray(source).forEach(function (name) {
+                  target.setProperty(name, source.getPropertyValue(name), source.getPropertyPriority(name));
+                });
+              }
+            }
+          }
+
+          function clonePseudoElements() {
+            [':before', ':after'].forEach(function (element) {
+              clonePseudoElement(element);
+            });
+
+            function clonePseudoElement(element) {
+              var style = window.getComputedStyle(original, element);
+              var content = style.getPropertyValue('content');
+              if (content === '' || content === 'none') return;
+              var className = util.uid();
+              clone.className = clone.className + ' ' + className;
+              var styleElement = document.createElement('style');
+              styleElement.appendChild(formatPseudoElementStyle(className, element, style));
+              clone.appendChild(styleElement);
+
+              function formatPseudoElementStyle(className, element, style) {
+                var selector = '.' + className + ':' + element;
+                var cssText = style.cssText ? formatCssText(style) : formatCssProperties(style);
+                return document.createTextNode(selector + '{' + cssText + '}');
+
+                function formatCssText(style) {
+                  var content = style.getPropertyValue('content');
+                  return style.cssText + ' content: ' + content + ';';
+                }
+
+                function formatCssProperties(style) {
+                  return util.asArray(style).map(formatProperty).join('; ') + ';';
+
+                  function formatProperty(name) {
+                    return name + ': ' + style.getPropertyValue(name) + (style.getPropertyPriority(name) ? ' !important' : '');
+                  }
+                }
+              }
+            }
+          }
+
+          function copyUserInput() {
+            if (original instanceof HTMLTextAreaElement) clone.innerHTML = original.value;
+            if (original instanceof HTMLInputElement) clone.setAttribute("value", original.value);
+          }
+
+          function fixSvg() {
+            if (!(clone instanceof SVGElement)) return;
+            clone.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+            if (!(clone instanceof SVGRectElement)) return;
+            ['width', 'height'].forEach(function (attribute) {
+              var value = clone.getAttribute(attribute);
+              if (!value) return;
+              clone.style.setProperty(attribute, value);
+            });
+          }
+        }
+      }
+
+      function embedFonts(node) {
+        return fontFaces.resolveAll().then(function (cssText) {
+          var styleNode = document.createElement('style');
+          node.appendChild(styleNode);
+          styleNode.appendChild(document.createTextNode(cssText));
+          return node;
+        });
+      }
+
+      function inlineImages(node) {
+        return images.inlineAll(node).then(function () {
+          return node;
+        });
+      }
+
+      function makeSvgDataUri(node, width, height) {
+        return Promise.resolve(node).then(function (node) {
+          node.setAttribute('xmlns', 'http://www.w3.org/1999/xhtml');
+          return new XMLSerializer().serializeToString(node);
+        }).then(util.escapeXhtml).then(function (xhtml) {
+          return '<foreignObject x="0" y="0" width="100%" height="100%">' + xhtml + '</foreignObject>';
+        }).then(function (foreignObject) {
+          return '<svg xmlns="http://www.w3.org/2000/svg" width="' + width + '" height="' + height + '">' + foreignObject + '</svg>';
+        }).then(function (svg) {
+          return 'data:image/svg+xml;charset=utf-8,' + svg;
+        });
+      }
+
+      function newUtil() {
+        return {
+          escape: escape,
+          parseExtension: parseExtension,
+          mimeType: mimeType,
+          dataAsUrl: dataAsUrl,
+          isDataUrl: isDataUrl,
+          canvasToBlob: canvasToBlob,
+          resolveUrl: resolveUrl,
+          getAndEncode: getAndEncode,
+          uid: uid(),
+          delay: delay,
+          asArray: asArray,
+          escapeXhtml: escapeXhtml,
+          makeImage: makeImage,
+          width: width,
+          height: height
+        };
+
+        function mimes() {
+          /*
+           * Only WOFF and EOT mime types for fonts are 'real'
+           * see http://www.iana.org/assignments/media-types/media-types.xhtml
+           */
+          var WOFF = 'application/font-woff';
+          var JPEG = 'image/jpeg';
+          return {
+            'woff': WOFF,
+            'woff2': WOFF,
+            'ttf': 'application/font-truetype',
+            'eot': 'application/vnd.ms-fontobject',
+            'png': 'image/png',
+            'jpg': JPEG,
+            'jpeg': JPEG,
+            'gif': 'image/gif',
+            'tiff': 'image/tiff',
+            'svg': 'image/svg+xml'
+          };
+        }
+
+        function parseExtension(url) {
+          var match = /\.([^\.\/]*?)$/g.exec(url);
+          if (match) return match[1];else return '';
+        }
+
+        function mimeType(url) {
+          var extension = parseExtension(url).toLowerCase();
+          return mimes()[extension] || '';
+        }
+
+        function isDataUrl(url) {
+          return url.search(/^(data:)/) !== -1;
+        }
+
+        function toBlob(canvas) {
+          return new Promise(function (resolve) {
+            var binaryString = window.atob(canvas.toDataURL().split(',')[1]);
+            var length = binaryString.length;
+            var binaryArray = new Uint8Array(length);
+
+            for (var i = 0; i < length; i++) {
+              binaryArray[i] = binaryString.charCodeAt(i);
+            }
+
+            resolve(new Blob([binaryArray], {
+              type: 'image/png'
+            }));
+          });
+        }
+
+        function canvasToBlob(canvas) {
+          if (canvas.toBlob) return new Promise(function (resolve) {
+            canvas.toBlob(resolve);
+          });
+          return toBlob(canvas);
+        }
+
+        function resolveUrl(url, baseUrl) {
+          var doc = document.implementation.createHTMLDocument();
+          var base = doc.createElement('base');
+          doc.head.appendChild(base);
+          var a = doc.createElement('a');
+          doc.body.appendChild(a);
+          base.href = baseUrl;
+          a.href = url;
+          return a.href;
+        }
+
+        function uid() {
+          var index = 0;
+          return function () {
+            return 'u' + fourRandomChars() + index++;
+
+            function fourRandomChars() {
+              /* see http://stackoverflow.com/a/6248722/2519373 */
+              return ('0000' + (Math.random() * Math.pow(36, 4) << 0).toString(36)).slice(-4);
+            }
+          };
+        }
+
+        function makeImage(uri) {
+          return new Promise(function (resolve, reject) {
+            var image = new Image();
+
+            image.onload = function () {
+              resolve(image);
+            };
+
+            image.onerror = reject;
+            image.src = uri;
+          });
+        }
+
+        function getAndEncode(url) {
+          var TIMEOUT = 30000;
+
+          if (domtoimage.impl.options.cacheBust) {
+            // Cache bypass so we dont have CORS issues with cached images
+            // Source: https://developer.mozilla.org/en/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest#Bypassing_the_cache
+            url += (/\?/.test(url) ? "&" : "?") + new Date().getTime();
+          }
+
+          return new Promise(function (resolve) {
+            var request = new XMLHttpRequest();
+            request.onreadystatechange = done;
+            request.ontimeout = timeout;
+            request.responseType = 'blob';
+            request.timeout = TIMEOUT;
+            request.open('GET', url, true);
+            request.send();
+            var placeholder;
+
+            if (domtoimage.impl.options.imagePlaceholder) {
+              var split = domtoimage.impl.options.imagePlaceholder.split(/,/);
+
+              if (split && split[1]) {
+                placeholder = split[1];
+              }
+            }
+
+            function done() {
+              if (request.readyState !== 4) return;
+
+              if (request.status !== 200) {
+                if (placeholder) {
+                  resolve(placeholder);
+                } else {
+                  fail('cannot fetch resource: ' + url + ', status: ' + request.status);
+                }
+
+                return;
+              }
+
+              var encoder = new FileReader();
+
+              encoder.onloadend = function () {
+                var content = encoder.result.split(/,/)[1];
+                resolve(content);
+              };
+
+              encoder.readAsDataURL(request.response);
+            }
+
+            function timeout() {
+              if (placeholder) {
+                resolve(placeholder);
+              } else {
+                fail('timeout of ' + TIMEOUT + 'ms occured while fetching resource: ' + url);
+              }
+            }
+
+            function fail(message) {
+              console.error(message);
+              resolve('');
+            }
+          });
+        }
+
+        function dataAsUrl(content, type) {
+          return 'data:' + type + ';base64,' + content;
+        }
+
+        function escape(string) {
+          return string.replace(/([.*+?^${}()|\[\]\/\\])/g, '\\$1');
+        }
+
+        function delay(ms) {
+          return function (arg) {
+            return new Promise(function (resolve) {
+              setTimeout(function () {
+                resolve(arg);
+              }, ms);
+            });
+          };
+        }
+
+        function asArray(arrayLike) {
+          var array = [];
+          var length = arrayLike.length;
+
+          for (var i = 0; i < length; i++) {
+            array.push(arrayLike[i]);
+          }
+
+          return array;
+        }
+
+        function escapeXhtml(string) {
+          return string.replace(/#/g, '%23').replace(/\n/g, '%0A');
+        }
+
+        function width(node) {
+          var leftBorder = px(node, 'border-left-width');
+          var rightBorder = px(node, 'border-right-width');
+          return node.scrollWidth + leftBorder + rightBorder;
+        }
+
+        function height(node) {
+          var topBorder = px(node, 'border-top-width');
+          var bottomBorder = px(node, 'border-bottom-width');
+          return node.scrollHeight + topBorder + bottomBorder;
+        }
+
+        function px(node, styleProperty) {
+          var value = window.getComputedStyle(node).getPropertyValue(styleProperty);
+          return parseFloat(value.replace('px', ''));
+        }
+      }
+
+      function newInliner() {
+        var URL_REGEX = /url\(['"]?([^'"]+?)['"]?\)/g;
+        return {
+          inlineAll: inlineAll,
+          shouldProcess: shouldProcess,
+          impl: {
+            readUrls: readUrls,
+            inline: inline
+          }
+        };
+
+        function shouldProcess(string) {
+          return string.search(URL_REGEX) !== -1;
+        }
+
+        function readUrls(string) {
+          var result = [];
+          var match;
+
+          while ((match = URL_REGEX.exec(string)) !== null) {
+            result.push(match[1]);
+          }
+
+          return result.filter(function (url) {
+            return !util.isDataUrl(url);
+          });
+        }
+
+        function inline(string, url, baseUrl, get) {
+          return Promise.resolve(url).then(function (url) {
+            return baseUrl ? util.resolveUrl(url, baseUrl) : url;
+          }).then(get || util.getAndEncode).then(function (data) {
+            return util.dataAsUrl(data, util.mimeType(url));
+          }).then(function (dataUrl) {
+            return string.replace(urlAsRegex(url), '$1' + dataUrl + '$3');
+          });
+
+          function urlAsRegex(url) {
+            return new RegExp('(url\\([\'"]?)(' + util.escape(url) + ')([\'"]?\\))', 'g');
+          }
+        }
+
+        function inlineAll(string, baseUrl, get) {
+          if (nothingToInline()) return Promise.resolve(string);
+          return Promise.resolve(string).then(readUrls).then(function (urls) {
+            var done = Promise.resolve(string);
+            urls.forEach(function (url) {
+              done = done.then(function (string) {
+                return inline(string, url, baseUrl, get);
+              });
+            });
+            return done;
+          });
+
+          function nothingToInline() {
+            return !shouldProcess(string);
+          }
+        }
+      }
+
+      function newFontFaces() {
+        return {
+          resolveAll: resolveAll,
+          impl: {
+            readAll: readAll
+          }
+        };
+
+        function resolveAll() {
+          return readAll(document).then(function (webFonts) {
+            return Promise.all(webFonts.map(function (webFont) {
+              return webFont.resolve();
+            }));
+          }).then(function (cssStrings) {
+            return cssStrings.join('\n');
+          });
+        }
+
+        function readAll() {
+          return Promise.resolve(util.asArray(document.styleSheets)).then(getCssRules).then(selectWebFontRules).then(function (rules) {
+            return rules.map(newWebFont);
+          });
+
+          function selectWebFontRules(cssRules) {
+            return cssRules.filter(function (rule) {
+              return rule.type === CSSRule.FONT_FACE_RULE;
+            }).filter(function (rule) {
+              return inliner.shouldProcess(rule.style.getPropertyValue('src'));
+            });
+          }
+
+          function getCssRules(styleSheets) {
+            var cssRules = [];
+            styleSheets.forEach(function (sheet) {
+              try {
+                util.asArray(sheet.cssRules || []).forEach(cssRules.push.bind(cssRules));
+              } catch (e) {
+                console.log('Error while reading CSS rules from ' + sheet.href, e.toString());
+              }
+            });
+            return cssRules;
+          }
+
+          function newWebFont(webFontRule) {
+            return {
+              resolve: function resolve() {
+                var baseUrl = (webFontRule.parentStyleSheet || {}).href;
+                return inliner.inlineAll(webFontRule.cssText, baseUrl);
+              },
+              src: function src() {
+                return webFontRule.style.getPropertyValue('src');
+              }
+            };
+          }
+        }
+      }
+
+      function newImages() {
+        return {
+          inlineAll: inlineAll,
+          impl: {
+            newImage: newImage
+          }
+        };
+
+        function newImage(element) {
+          return {
+            inline: inline
+          };
+
+          function inline(get) {
+            if (util.isDataUrl(element.src)) return Promise.resolve();
+            return Promise.resolve(element.src).then(get || util.getAndEncode).then(function (data) {
+              return util.dataAsUrl(data, util.mimeType(element.src));
+            }).then(function (dataUrl) {
+              return new Promise(function (resolve, reject) {
+                element.onload = resolve;
+                element.onerror = reject;
+                element.src = dataUrl;
+              });
+            });
+          }
+        }
+
+        function inlineAll(node) {
+          if (!(node instanceof Element)) return Promise.resolve(node);
+          return inlineBackground(node).then(function () {
+            if (node instanceof HTMLImageElement) return newImage(node).inline();else return Promise.all(util.asArray(node.childNodes).map(function (child) {
+              return inlineAll(child);
+            }));
+          });
+
+          function inlineBackground(node) {
+            var background = node.style.getPropertyValue('background');
+            if (!background) return Promise.resolve(node);
+            return inliner.inlineAll(background).then(function (inlined) {
+              node.style.setProperty('background', inlined, node.style.getPropertyPriority('background'));
+            }).then(function () {
+              return node;
+            });
+          }
+        }
+      }
+    })(this);
     /***/
 
   },
@@ -906,7 +1593,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }
       },
       directives: [_angular_material_button__WEBPACK_IMPORTED_MODULE_1__["MatButton"]],
-      styles: [".btn-action[_ngcontent-%COMP%] {\n  background: #2aad6f !important;\n  color: white !important;\n  margin-top: 0.5em;\n}\n\n.phone-frame[_ngcontent-%COMP%] {\n  text-align: center;\n  margin-bottom: 2em;\n  margin-right: 1em;\n}\n\n.phone-image[_ngcontent-%COMP%] {\n  height: 300px;\n  max-width: 100%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGhvbmUtaXRlbS9EOlxcV29ya3NwYWNlXFxraHV5ZW5tYWktb3Bwby9zcmNcXGFwcFxccGhvbmUtaXRlbVxccGhvbmUtaXRlbS5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvcGhvbmUtaXRlbS9waG9uZS1pdGVtLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksOEJBQUE7RUFDQSx1QkFBQTtFQUNBLGlCQUFBO0FDQ0o7O0FERUE7RUFDSSxrQkFBQTtFQUNBLGtCQUFBO0VBQ0EsaUJBQUE7QUNDSjs7QURFQTtFQUNJLGFBQUE7RUFDQSxlQUFBO0FDQ0oiLCJmaWxlIjoic3JjL2FwcC9waG9uZS1pdGVtL3Bob25lLWl0ZW0uY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYnRuLWFjdGlvbiB7XHJcbiAgICBiYWNrZ3JvdW5kOiAjMmFhZDZmICFpbXBvcnRhbnQ7XHJcbiAgICBjb2xvcjogd2hpdGUgIWltcG9ydGFudDtcclxuICAgIG1hcmdpbi10b3A6IDAuNWVtO1xyXG59XHJcblxyXG4ucGhvbmUtZnJhbWUge1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMmVtO1xyXG4gICAgbWFyZ2luLXJpZ2h0OiAxZW07XHJcbn1cclxuXHJcbi5waG9uZS1pbWFnZSB7XHJcbiAgICBoZWlnaHQ6IDMwMHB4O1xyXG4gICAgbWF4LXdpZHRoOiAxMDAlO1xyXG59XHJcbiIsIi5idG4tYWN0aW9uIHtcbiAgYmFja2dyb3VuZDogIzJhYWQ2ZiAhaW1wb3J0YW50O1xuICBjb2xvcjogd2hpdGUgIWltcG9ydGFudDtcbiAgbWFyZ2luLXRvcDogMC41ZW07XG59XG5cbi5waG9uZS1mcmFtZSB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgbWFyZ2luLWJvdHRvbTogMmVtO1xuICBtYXJnaW4tcmlnaHQ6IDFlbTtcbn1cblxuLnBob25lLWltYWdlIHtcbiAgaGVpZ2h0OiAzMDBweDtcbiAgbWF4LXdpZHRoOiAxMDAlO1xufSJdfQ== */"],
+      styles: [".btn-action[_ngcontent-%COMP%] {\n  background: #2aad6f !important;\n  color: white !important;\n  margin-top: 0.5em;\n}\n\n.phone-frame[_ngcontent-%COMP%] {\n  text-align: center;\n  margin-bottom: 2em;\n  margin-right: 1em;\n}\n\n.phone-image[_ngcontent-%COMP%] {\n  height: 300px;\n  max-width: 100%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGhvbmUtaXRlbS9DOlxcVXNlcnNcXER1eSBEb2FuXFxEb2N1bWVudHNcXEdpdEh1Ylxca2h1eWVubWFpLW9wcG8vc3JjXFxhcHBcXHBob25lLWl0ZW1cXHBob25lLWl0ZW0uY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL3Bob25lLWl0ZW0vcGhvbmUtaXRlbS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLDhCQUFBO0VBQ0EsdUJBQUE7RUFDQSxpQkFBQTtBQ0NKOztBREVBO0VBQ0ksa0JBQUE7RUFDQSxrQkFBQTtFQUNBLGlCQUFBO0FDQ0o7O0FERUE7RUFDSSxhQUFBO0VBQ0EsZUFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvcGhvbmUtaXRlbS9waG9uZS1pdGVtLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmJ0bi1hY3Rpb24ge1xyXG4gICAgYmFja2dyb3VuZDogIzJhYWQ2ZiAhaW1wb3J0YW50O1xyXG4gICAgY29sb3I6IHdoaXRlICFpbXBvcnRhbnQ7XHJcbiAgICBtYXJnaW4tdG9wOiAwLjVlbTtcclxufVxyXG5cclxuLnBob25lLWZyYW1lIHtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxuICAgIG1hcmdpbi1ib3R0b206IDJlbTtcclxuICAgIG1hcmdpbi1yaWdodDogMWVtO1xyXG59XHJcblxyXG4ucGhvbmUtaW1hZ2Uge1xyXG4gICAgaGVpZ2h0OiAzMDBweDtcclxuICAgIG1heC13aWR0aDogMTAwJTtcclxufVxyXG4iLCIuYnRuLWFjdGlvbiB7XG4gIGJhY2tncm91bmQ6ICMyYWFkNmYgIWltcG9ydGFudDtcbiAgY29sb3I6IHdoaXRlICFpbXBvcnRhbnQ7XG4gIG1hcmdpbi10b3A6IDAuNWVtO1xufVxuXG4ucGhvbmUtZnJhbWUge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gIG1hcmdpbi1ib3R0b206IDJlbTtcbiAgbWFyZ2luLXJpZ2h0OiAxZW07XG59XG5cbi5waG9uZS1pbWFnZSB7XG4gIGhlaWdodDogMzAwcHg7XG4gIG1heC13aWR0aDogMTAwJTtcbn0iXX0= */"],
       changeDetection: 0
     });
     /*@__PURE__*/
@@ -993,27 +1680,27 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function PhoneListComponent_app_phone_item_1_Template(rf, ctx) {
       if (rf & 1) {
-        var _r6 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+        var _r4 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "app-phone-item", 2);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("selected", function PhoneListComponent_app_phone_item_1_Template_app_phone_item_selected_0_listener() {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r4);
 
-          var phone_r4 = ctx.$implicit;
+          var phone_r2 = ctx.$implicit;
 
-          var ctx_r5 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
+          var ctx_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
 
-          return ctx_r5.selectPhone(phone_r4);
+          return ctx_r3.selectPhone(phone_r2);
         });
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       }
 
       if (rf & 2) {
-        var phone_r4 = ctx.$implicit;
+        var phone_r2 = ctx.$implicit;
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("phone", phone_r4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("phone", phone_r2);
       }
     }
 
@@ -1075,7 +1762,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       },
       directives: [_angular_common__WEBPACK_IMPORTED_MODULE_4__["NgForOf"], _phone_item_phone_item_component__WEBPACK_IMPORTED_MODULE_5__["PhoneItemComponent"]],
       pipes: [_angular_common__WEBPACK_IMPORTED_MODULE_4__["AsyncPipe"]],
-      styles: [".phone-list-wrapper[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: center;\n  align-items: baseline;\n  flex-wrap: wrap;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGhvbmUtbGlzdC9EOlxcV29ya3NwYWNlXFxraHV5ZW5tYWktb3Bwby9zcmNcXGFwcFxccGhvbmUtbGlzdFxccGhvbmUtbGlzdC5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvcGhvbmUtbGlzdC9waG9uZS1saXN0LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksYUFBQTtFQUNBLHVCQUFBO0VBQ0EscUJBQUE7RUFDQSxlQUFBO0FDQ0oiLCJmaWxlIjoic3JjL2FwcC9waG9uZS1saXN0L3Bob25lLWxpc3QuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIucGhvbmUtbGlzdC13cmFwcGVyIHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcclxuICAgIGFsaWduLWl0ZW1zOiBiYXNlbGluZTtcclxuICAgIGZsZXgtd3JhcDogd3JhcDtcclxufSIsIi5waG9uZS1saXN0LXdyYXBwZXIge1xuICBkaXNwbGF5OiBmbGV4O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgYWxpZ24taXRlbXM6IGJhc2VsaW5lO1xuICBmbGV4LXdyYXA6IHdyYXA7XG59Il19 */"],
+      styles: [".phone-list-wrapper[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: center;\n  align-items: baseline;\n  flex-wrap: wrap;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGhvbmUtbGlzdC9DOlxcVXNlcnNcXER1eSBEb2FuXFxEb2N1bWVudHNcXEdpdEh1Ylxca2h1eWVubWFpLW9wcG8vc3JjXFxhcHBcXHBob25lLWxpc3RcXHBob25lLWxpc3QuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL3Bob25lLWxpc3QvcGhvbmUtbGlzdC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGFBQUE7RUFDQSx1QkFBQTtFQUNBLHFCQUFBO0VBQ0EsZUFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvcGhvbmUtbGlzdC9waG9uZS1saXN0LmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnBob25lLWxpc3Qtd3JhcHBlciB7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgICBhbGlnbi1pdGVtczogYmFzZWxpbmU7XHJcbiAgICBmbGV4LXdyYXA6IHdyYXA7XHJcbn0iLCIucGhvbmUtbGlzdC13cmFwcGVyIHtcbiAgZGlzcGxheTogZmxleDtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGFsaWduLWl0ZW1zOiBiYXNlbGluZTtcbiAgZmxleC13cmFwOiB3cmFwO1xufSJdfQ== */"],
       changeDetection: 0
     });
     /*@__PURE__*/
@@ -1377,13 +2064,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony import */
 
 
-    var dom_to_image__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
-    /*! dom-to-image */
-    "./node_modules/dom-to-image/src/dom-to-image.js");
+    var src_app_libs_dom_to_image__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! src/app/libs/dom-to-image */
+    "./src/app/libs/dom-to-image.js");
     /* harmony import */
 
 
-    var dom_to_image__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(dom_to_image__WEBPACK_IMPORTED_MODULE_0__);
+    var src_app_libs_dom_to_image__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(src_app_libs_dom_to_image__WEBPACK_IMPORTED_MODULE_0__);
     /* harmony import */
 
 
@@ -1409,7 +2096,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(CaptureScreenshotService, [{
         key: "capture",
         value: function capture(node, name) {
-          dom_to_image__WEBPACK_IMPORTED_MODULE_0___default.a.toBlob(node).then(function (blob) {
+          src_app_libs_dom_to_image__WEBPACK_IMPORTED_MODULE_0___default.a.toBlob(node, {
+            scale: 2.5
+          }).then(function (blob) {
             Object(file_saver__WEBPACK_IMPORTED_MODULE_2__["saveAs"])(blob, "".concat(name, ".png"));
           });
         }
@@ -1726,7 +2415,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! D:\Workspace\khuyenmai-oppo\src\main.ts */
+    /*! C:\Users\Duy Doan\Documents\GitHub\khuyenmai-oppo\src\main.ts */
     "./src/main.ts");
     /***/
   }
