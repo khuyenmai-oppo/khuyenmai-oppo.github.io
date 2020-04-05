@@ -1,31 +1,61 @@
 [{
     "id": "A1k",
     "name": "OPPO A1k",
-    "picture": "A1k.png",
-    "promotion": "FORM A1k.png"
+    "picture": "SP-A1k.png",
+    "promotion": "A1k.png"
 }, {
-    "id": "A5",
-    "name": "OPPO A5",
-    "picture": "A5.png",
-    "promotion": "FORM A5.png"
+    "id": "A1k - S150",
+    "name": "OPPO A1k - S150",
+    "picture": "SP-A1k.png",
+    "promotion": "A1k - S150.png"
+}, {
+    "id": "A1k V120",
+    "name": "OPPO A1k - V120",
+    "picture": "SP-A1k.png",
+    "promotion": "A1k V120.png"
+}, {
+    "id": "A5 - 64GB",
+    "name": "OPPO A5 - 64GB",
+    "picture": "SP-A5.png",
+    "promotion": "A5 - 64 GB.png"
+}, {
+    "id": "A5 - 128GB",
+    "name": "OPPO A5 - 128GB",
+    "picture": "SP-A5.png",
+    "promotion": "A5 128 GB.png"
 }, {
     "id": "A5s",
     "name": "OPPO A5s",
-    "picture": "A5s.png",
-    "promotion": "FORM A5S.png"
+    "picture": "SP-A5s.png",
+    "promotion": "A5s.png"
 }, {
     "id": "A9",
     "name": "OPPO A9",
-    "picture": "A9.png",
-    "promotion": "FORM A9.png"
+    "picture": "SP-A9.png",
+    "promotion": "A9.png"
 }, {
     "id": "A31",
     "name": "OPPO A31",
-    "picture": "A31.png",
-    "promotion": "FORM A31.png"
+    "picture": "SP-A31.png",
+    "promotion": "A31.png"
 }, {
     "id": "A91",
     "name": "OPPO A91",
-    "picture": "A91.png",
-    "promotion": "FORM A91.png"
+    "picture": "SP-A91.png",
+    "promotion": "A91.png"
+}, {
+    "id": "PROMOTION",
+    "name": "Promotion",
+    "picture": "Promotion.png",
+    "promotion": "Promotion.png"
+}, {
+    "id": "Promotion 1",
+    "name": "Promotion 1",
+    "picture": "Promotion 1.png",
+    "promotion": "Promotion 1.png"
+}, {
+    "id": "Promotion 2",
+    "name": "Promotion 2",
+    "picture": "Promotion 2.png",
+    "promotion": "Promotion 2.png"
 }]
