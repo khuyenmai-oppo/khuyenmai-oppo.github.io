@@ -44,9 +44,10 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [
-    { path: '', pathMatch: 'full', redirectTo: './khuyen-mai' },
-    { path: 'khuyen-mai', component: _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_2__["HomePageComponent"] },
+    { path: 'khuyenmai', component: _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_2__["HomePageComponent"] },
     { path: 'theten', component: _name_card_name_card_component__WEBPACK_IMPORTED_MODULE_3__["NameCardComponent"] },
+    { path: '', pathMatch: 'full', redirectTo: 'khuyenmai' },
+    { path: '**', pathMatch: 'full', redirectTo: '' },
 ];
 class AppRoutingModule {
 }
@@ -86,7 +87,7 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 16, vars: 0, consts: [[1, "title"], ["routerLink", "/khuyen-mai", "routerLinkActive", "active"], ["routerLink", "/theten", "routerLinkActive", "active"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 16, vars: 0, consts: [[1, "title"], ["routerLink", "/khuyenmai", "routerLinkActive", "active"], ["routerLink", "/theten", "routerLinkActive", "active"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "header");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Th\u00F4ng tin khuy\u1EBFn m\u00E3i OPPO");

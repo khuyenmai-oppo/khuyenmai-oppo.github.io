@@ -80,15 +80,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     "./src/app/name-card/name-card.component.ts");
 
     var routes = [{
-      path: '',
-      pathMatch: 'full',
-      redirectTo: './khuyen-mai'
-    }, {
-      path: 'khuyen-mai',
+      path: 'khuyenmai',
       component: _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_2__["HomePageComponent"]
     }, {
       path: 'theten',
       component: _name_card_name_card_component__WEBPACK_IMPORTED_MODULE_3__["NameCardComponent"]
+    }, {
+      path: '',
+      pathMatch: 'full',
+      redirectTo: 'khuyenmai'
+    }, {
+      path: '**',
+      pathMatch: 'full',
+      redirectTo: ''
     }];
 
     var AppRoutingModule = function AppRoutingModule() {
@@ -174,7 +178,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-root"]],
       decls: 16,
       vars: 0,
-      consts: [[1, "title"], ["routerLink", "/khuyen-mai", "routerLinkActive", "active"], ["routerLink", "/theten", "routerLinkActive", "active"]],
+      consts: [[1, "title"], ["routerLink", "/khuyenmai", "routerLinkActive", "active"], ["routerLink", "/theten", "routerLinkActive", "active"]],
       template: function AppComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "header");
